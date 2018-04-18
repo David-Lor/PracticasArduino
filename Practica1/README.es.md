@@ -1,6 +1,6 @@
 # Practica 1: Encender y apagar un led
 
-## Materiales
+## Componentes
 
 * Arduino Uno R3
 * LED
