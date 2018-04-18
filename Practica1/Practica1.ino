@@ -2,7 +2,7 @@ const int LED_PIN = 13;
 const int DELAY = 300;
 
 void setup() {
-	pinMode(LED_PIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
 }
 
 void loop() {
