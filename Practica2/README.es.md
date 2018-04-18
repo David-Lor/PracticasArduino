@@ -1,6 +1,6 @@
 # Practica 2: Encender y apagar 3 leds de forma consecutiva
 
-## Materiales
+## Componentes
 
 * Arduino Uno R3
 * 3x LED
