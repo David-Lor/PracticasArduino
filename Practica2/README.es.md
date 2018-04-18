@@ -11,7 +11,7 @@
 ## Funcionamiento
 
 * Se definen 3 pines digitales como salida.
-* En el loop se ejecuta un bucle _for_ que, para cada uno de los 3 pines (LEDs), realiza lo siguiente:
+* En el _loop_ se ejecuta un bucle _for_ que, para cada uno de los 3 pines (LEDs), realiza lo siguiente:
 	1. el pin se enciende
 	2. se esperan 300ms
 	3. el pin se apaga

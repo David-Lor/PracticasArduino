@@ -9,7 +9,7 @@
 ## Funcionamiento
 
 * Se define el pin digital 13 como salida.
-* En el loop se realizan las siguientes acciones:
+* En el _loop_ se realizan las siguientes acciones:
 	1. el pin se enciende
 	2. se esperan 300ms
 	3. el pin se apaga
