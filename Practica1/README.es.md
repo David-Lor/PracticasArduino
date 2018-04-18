@@ -6,5 +6,5 @@
 * LED
 * Resistencia 1K
 
-![esquema tinkercad](https://raw.githubusercontent.com/EnforcerZhukov/PracticasArduino/master/Practica1/pr1.png)
+![esquema tinkercad](pr1.png)
 
