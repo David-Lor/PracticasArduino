@@ -9,4 +9,4 @@
 * Breadboard
 * 7x cables Dupont macho-macho
 
-![esquema tinkercad](https://raw.githubusercontent.com/EnforcerZhukov/PracticasArduino/master/Practica3/pr3.png)
+![esquema tinkercad](pr3.png)
