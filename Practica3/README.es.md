@@ -28,4 +28,4 @@
 
 ## Foto montaje
 
-![foto](fotoP3.png)
+![foto](fotoP3.jpg)

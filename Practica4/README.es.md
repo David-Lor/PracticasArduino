@@ -22,4 +22,4 @@ El servo rotará completamente hacia un lado y hacia otro en cada ejecución del
 
 ## Foto montaje
 
-![foto](fotoP4.png)
+![foto](fotoP4.jpg)

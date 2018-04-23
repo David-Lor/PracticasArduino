@@ -23,4 +23,4 @@
 
 ## Foto montaje
 
-![foto](fotoP2.png)
+![foto](fotoP2.jpg)
