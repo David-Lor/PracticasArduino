@@ -20,3 +20,7 @@
 ## Circuito
 
 ![esquema tinkercad](pr2.png)
+
+## Foto montaje
+
+![foto](fotoP2.png)

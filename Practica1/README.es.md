@@ -19,3 +19,6 @@
 
 ![esquema tinkercad](pr1.png)
 
+## Foto montaje
+
+![foto](fotoP1.png)

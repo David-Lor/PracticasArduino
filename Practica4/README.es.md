@@ -20,3 +20,6 @@ El servo rotará completamente hacia un lado y hacia otro en cada ejecución del
 
 ![esquema tinkercad](pr4.png)
 
+## Foto montaje
+
+![foto](fotoP4.png)

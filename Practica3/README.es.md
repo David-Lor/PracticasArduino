@@ -25,3 +25,7 @@
 ## Circuito
 
 ![esquema tinkercad](pr3.png)
+
+## Foto montaje
+
+![foto](fotoP3.png)
