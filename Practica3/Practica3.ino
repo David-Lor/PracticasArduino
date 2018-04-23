@@ -17,7 +17,7 @@ void loop() {
     tone(BUZZER_PIN, BUZZER_TONE[i]);
     delay(DELAY);
     digitalWrite(LED_PIN[i], LOW);
-    notone(BUZZER_PIN);
+    noTone(BUZZER_PIN);
     delay(DELAY);
   }
 }
