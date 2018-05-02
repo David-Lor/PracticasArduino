@@ -1,4 +1,4 @@
-const int LED_PIN = 13;
+const int LED_PIN = 12;
 const int DELAY = 300;
 
 void setup() {
