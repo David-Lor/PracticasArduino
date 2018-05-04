@@ -32,7 +32,7 @@ Hemos realizado dos versiones del Clap Switch, una usando la salida analógica y
 
 ## Circuito
 
-![esquema tinkercad](pr5.png)
+![esquema tinkercad](pr5digital.png)
 
 ## Foto montaje
 
