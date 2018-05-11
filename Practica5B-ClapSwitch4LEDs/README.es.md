@@ -58,7 +58,7 @@ La salida digital por defecto está en nivel bajo. Sube a nivel alto durante un 
 
 ## Circuito
 
-![esquema tinkercad](pr5b.png)
+![esquema tinkercad](pr5B.png)
 
 ## Foto montaje
 
