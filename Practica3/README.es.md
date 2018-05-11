@@ -6,8 +6,8 @@
 * 4x LED
 * 4x Resistencia 1K
 * Buzzer
-* Breadboard
 * 7x cables Dupont macho-macho
+* Breadboard
 
 ## Funcionamiento
 

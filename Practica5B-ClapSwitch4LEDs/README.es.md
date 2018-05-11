@@ -3,8 +3,10 @@
 ## Componentes
 
 * Arduino Nano
-* 4 LEDs
+* 4x LEDs
 * Sensor sonido "Big Sound" KY-038
+* 8x cables Dupont macho-macho
+* Breadboard
 
 ## Finalidad del proyecto
 

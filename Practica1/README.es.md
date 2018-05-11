@@ -3,8 +3,10 @@
 ## Componentes
 
 * Arduino Uno R3
-* LED
-* Resistencia 1K
+* 1x LED
+* 1x Resistencia 1K
+* 2x cables Dupont macho-macho
+* Breadboard
 
 ## Funcionamiento
 
